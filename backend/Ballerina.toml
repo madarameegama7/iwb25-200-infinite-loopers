@@ -2,9 +2,7 @@
 org = "dell"
 name = "backend"
 version = "0.1.0"
-distribution = "2201.12.7"
+distribution = "2201.7.0"
 
 [build-options]
 observabilityIncluded = true
-
-
